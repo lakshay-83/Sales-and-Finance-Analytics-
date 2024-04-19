@@ -1,4 +1,4 @@
-# Sales-and-Finance-Analytics-
+# Sales-and-Finance-Analytics- Sales and Finance reprt created for Atliq using Excel
 #Sales and Finance reprt created for Atliq using Excel
 ## Sales Report :
 
